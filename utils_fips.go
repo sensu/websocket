@@ -1,5 +1,5 @@
-//go:build !fips140
-// +build !fips140
+//go:build fips140
+// +build fips140
 
 // Copyright 2013 The Gorilla WebSocket Authors. All rights reserved.
 // Use of this source code is governed by a BSD-style
